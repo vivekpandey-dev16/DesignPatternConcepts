@@ -1,2 +1,2 @@
 # DesignPatternConcepts
-Repository to lean and implement design pattern concepts
+Repository to learn and implement design pattern concepts
